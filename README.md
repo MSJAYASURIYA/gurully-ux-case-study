@@ -157,13 +157,13 @@ This hierarchy is intended to reduce decision effort and make the next action mo
 
 The dashboard concept focuses on the learner's preparation goal and a recommended next action. It aims to make starting practice easier and reduce the need to search through multiple options.
 
-![Gurully Dashboard Design](Gurully%20dashboard.png)
+![Gurully Dashboard Design](Gurully_dashboard.png)
 
 ### Concept 2: Results That Guide Improvement
 
 The results screen concept focuses on the overall score, the gap to the target, individual skill performance, and a possible next practice action.
 
-![Gurully Results Screen Design](Gurully_Results.png.png)
+![Gurully Results Screen Design](Gurully_Results.png)
 
 ### Design Rationale
 
